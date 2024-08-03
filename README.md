@@ -6,6 +6,9 @@
 J'ai commencé par utiliser l'extension Inkscape `NextGenerator`, vraiment géniale.
 Seulement j'avais une dernière étape pour laquelle j'ai dû créer un script: colorer un rouge la première lettre de chaque nom composant les prénoms, et assembler le tout dans un seul fichier HTML, pour l'imprimer facilement sans étape supplémentaire.
 
+![Exemple 1](examples/presence.png)
+![Exemple 2](examples/chaise.png)
+
 ## Comment ça marche
 
 1. Prépare ton template, il doit-être au format SVG (avec Inkscape ou d'autres outils en ligne gratuits):
