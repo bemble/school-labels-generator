@@ -63,6 +63,7 @@ function adaptTemplate(template, remplacements) {
     verbose && console.log(`Generating "${outputFilename}"...`);
     const html = `<html>
         <head>
+            <meta charset="UTF-8">
             <title>${templateName}</title>
         </head>
         <body>
